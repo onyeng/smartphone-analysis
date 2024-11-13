@@ -1,0 +1,23 @@
+name,ratings,price,imgURL,camera,display,battery,storage,ram,processor,ios_version
+iPhone 11,4.2,49999,https://example.com/iphone11.jpeg,12,Super Retina,3110,64,4,A13 Bionic,iOS 13
+iPhone 11 Pro,4.5,69999,https://example.com/iphone11pro.jpeg,12,Super Retina XDR,3046,64,4,A13 Bionic,iOS 13
+iPhone 11 Pro Max,4.6,79999,https://example.com/iphone11promax.jpeg,12,Super Retina XDR,3969,64,4,A13 Bionic,iOS 13
+iPhone 12,4.4,64999,https://example.com/iphone12.jpeg,12,Super Retina XDR,2815,64,4,A14 Bionic,iOS 14
+iPhone 12 Mini,4.3,59999,https://example.com/iphone12mini.jpeg,12,Super Retina XDR,2227,64,4,A14 Bionic,iOS 14
+iPhone 12 Pro,4.6,89999,https://example.com/iphone12pro.jpeg,12,Super Retina XDR,2815,128,6,A14 Bionic,iOS 14
+iPhone 12 Pro Max,4.7,99999,https://example.com/iphone12promax.jpeg,12,Super Retina XDR,3687,128,6,A14 Bionic,iOS 14
+iPhone 13,4.5,69999,https://example.com/iphone13.jpeg,12,Super Retina XDR,3240,128,4,A15 Bionic,iOS 15
+iPhone 13 Mini,4.4,64999,https://example.com/iphone13mini.jpeg,12,Super Retina XDR,2438,128,4,A15 Bionic,iOS 15
+iPhone 13 Pro,4.7,109999,https://example.com/iphone13pro.jpeg,12,Super Retina XDR,3095,128,6,A15 Bionic,iOS 15
+iPhone 13 Pro Max,4.8,119999,https://example.com/iphone13promax.jpeg,12,Super Retina XDR,4352,128,6,A15 Bionic,iOS 15
+iPhone 14,4.6,79999,https://example.com/iphone14.jpeg,12,Super Retina XDR,3279,128,6,A15 Bionic,iOS 16
+iPhone 14 Plus,4.5,89999,https://example.com/iphone14plus.jpeg,12,Super Retina XDR,4325,128,6,A15 Bionic,iOS 16
+iPhone 14 Pro,4.8,129999,https://example.com/iphone14pro.jpeg,48,Super Retina XDR,3200,128,6,A16 Bionic,iOS 16
+iPhone 14 Pro Max,4.8,139999,https://example.com/iphone14promax.jpeg,48,Super Retina XDR,4323,128,6,A16 Bionic,iOS 16
+iPhone 15,4.7,89999,https://example.com/iphone15.jpeg,48,Super Retina XDR,3349,128,6,A16 Bionic,iOS 17
+iPhone 15 Plus,4.6,99999,https://example.com/iphone15plus.jpeg,48,Super Retina XDR,4383,128,6,A16 Bionic,iOS 17
+iPhone 15 Pro,4.8,124999,https://example.com/iphone15pro.jpeg,48,Super Retina XDR,3290,256,8,A17 Pro,iOS 17
+iPhone 15 Pro Max,4.8,134999,https://example.com/iphone15promax.jpeg,48,Super Retina XDR,4422,256,8,A17 Pro,iOS 17
+iPhone 16,not mentioned,139999,https://example.com/iphone16.jpeg,48,Super Retina XDR,3500,512,8,A18 Bionic,iOS 18
+iPhone 16 Pro,not mentioned,154999,https://example.com/iphone16pro.jpeg,48,Super Retina XDR,3350,512,8,A18 Bionic,iOS 18
+iPhone 16 Pro Max,not mentioned,169999,https://example.com/iphone16promax.jpeg,48,Super Retina XDR,4500,512,8,A18 Bionic,iOS 18
